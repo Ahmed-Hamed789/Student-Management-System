@@ -62,7 +62,7 @@ cd frontend
 npm run dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) to view the app.
+Visit [http://localhost:3000](http://localhost:3000) to view .
 
 ## Folder Structure
 
